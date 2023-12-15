@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Griffin</h1>
+<h1 align="center">Hi ☂️, I'm Griffin</h1>
 <h3 align="center">I like programming and gaming stuffs</h3>
+
+<h4 align="center">Professional lazy,The best freaking MMO Player</h4>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griffin3q&label=Profile%20views&color=0e75b6&style=flat" alt="griffin3q" /> </p>
 
 - 📚 let Currently_learning = String::from **("Javascript, Rust");**
 
-- 🤝 I’m looking for help with **study**
+- 💜 I’m looking for help with **study**
 
 - 💬 let Open_to_chats = **True;**
 
