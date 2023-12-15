@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **study**
 
-- 💬 let Open to chats = **True;**
+- 💬 let Open_to_chats = **True;**
 
 - 🐧 let Linux_enjoyer = **True;**
 
