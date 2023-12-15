@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Griffin</h1>
-<h3 align="center">I like programming and gaming</h3>
+<h3 align="center">I like programming and gaming stuffs</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griffin3q&label=Profile%20views&color=0e75b6&style=flat" alt="griffin3q" /> </p>
 
