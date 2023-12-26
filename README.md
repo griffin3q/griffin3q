@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griffin3q&label=Profile%20views&color=0e75b6&style=flat" alt="griffin3q" /> </p>
 
-- 📚 let Currently_learning = String::from **("Javascript, Rust");**
+- 📚 let Currently_learning = String::from **("Java");**
 
 - 💜 I’m looking for help with **study**
 
