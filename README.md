@@ -53,13 +53,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/griffin3q/griffin3q/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://img.wattpad.com/e016d3fe65fe8eb6ba275ffa996702f82c935648/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4c42523675423064736d72766b773d3d2d3230332e313636663039323238613937663262643336393833383534383231312e676966?s=fit"  />
-</div>
-
-###
